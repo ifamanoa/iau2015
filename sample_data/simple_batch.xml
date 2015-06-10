@@ -1,0 +1,36 @@
+<BATCH>
+ <HEADER>
+  <COD>F51</COD>
+  <CON>P. Villa</CON>
+  <ACK>New Camera Test</ACK> 
+  <AC2>pancho.villa@gmail.com</AC2>
+  <OBS>P. Villa, F. Madero</OBS>
+  <MEA>P. Villa, F. Madero</MEA>
+  <TEL>2.24-m University of Hawaii reflector</TEL>
+ </HEADER>
+ <DATA>
+  <OBS> 
+   <OBS_ID>a1b2c3d4</OBS_ID> 
+   <OBJ_ID>K15H00076D</OBJ_ID> 
+   <TRK_OBS>a</TRK_OBS> 
+   <TRK_MPC>e6f7g8h9</TRK_MPC> 
+   <TECH>C</TECH> 
+   <FLAG></FLAG> 
+   <STN>F51</STN>
+   <PRG>3</PRG> 
+   <TIME>20150425.47</TIME> 
+   <RA>215.65605</RA> 
+   <DEC>-13.547872</DEC> 
+   <AST_CAT>2MA</AST_CAT> 
+   <RMS_RA>0.15</RMS_RA> 
+   <RMS_DEC>0.13</RMS_DEC> 
+   <RMS_COR>0.21</RMS_COR> 
+   <MAG>21.9</MAG>
+   <PHOT_CAT>2MA</PHOT_CAT>
+   <BAND>w</BAND>
+   <RMS_MAG>0.25</RMS_MAG> 
+   <LOG_SNR>0.7</LOG_SNR>
+   <NOTE>High winds affected tracking</NOTE>
+  </OBS> 
+ </DATA>
+</BATCH>
